@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --font-manrope: 'Manrope', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+
+  --color-cream-light: #F5F1EA;
+  --color-cream-dark: #E6E2D9;
+  --color-navy: #0B1B47;
+  --color-slate: #54607A;
+  --color-muted: #B6C1D9;
+  --color-gray-light: #B0B6C3;
+  --color-blue: #1E88FF;
+  --color-blue-light: #DCEBFF;
+  --color-yellow: #FFD60A;
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #20ba5a;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/manrope-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/manrope-medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/manrope-semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/manrope-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../fonts/manrope-extrabold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/inter-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/inter-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+    scroll-behavior: smooth;
+}
