@@ -2,6 +2,14 @@
 
 Landing page desenvolvida para desafio técnico, integrada ao WordPress por meio de um tema personalizado, com foco em responsividade, performance, SEO e gerenciamento dinâmico de conteúdo.
 
+## Demonstração Online
+
+Acesse a versão online da landing page:
+
+[Ver demonstração online](https://demo.programup.com.br/)
+
+*Esta URL está hospedada temporariamente para fins de demonstração do desafio técnico.*
+
 ## Tecnologias
 
 * WordPress
